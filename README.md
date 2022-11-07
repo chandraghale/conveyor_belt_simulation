@@ -39,11 +39,13 @@ type go through the production line without being picked up by any
 workers.
 
 
-Build and Dependecies  :
+Build and Dependencies  :
  - Required :  Requires C++11 STL Support
+
  - Compile using C++ support compiler
 
- Demo Output : 
+Demo Output : 
+
 -$ g++ conveyor_belt.cpp 
 $ ./a.out 
 Number of final product generated : 22
