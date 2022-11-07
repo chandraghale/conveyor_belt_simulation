@@ -56,3 +56,16 @@ A few pointers:
    (Where would it be better to rewrite the code for a different 
    scenario, rather than spending much more than the allotted time 
    creating an overly complicated, but very flexible simulation engine?)
+
+
+Build and Dependecies  :
+ - Required :  Requires C++11 STL Support
+ - Compile using C++ support compiler
+
+ Demo Output : 
+-$ g++ conveyor_belt.cpp 
+$ ./a.out 
+Number of final product generated : 22
+Number of components unused : 8
+	
+	
