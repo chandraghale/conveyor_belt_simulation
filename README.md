@@ -1,7 +1,3 @@
-Notice: This is provided as part of the Arm Ltd recruitment process. 
-It may only be used for that purpose and must not be redistributed 
-in any way.
-
 There is a factory production line around a single conveyor belt.  
 
 Components (of type A and B) come onto the start of the belt at random 
@@ -41,21 +37,6 @@ Run the simulation for 100 steps, and compute how many finished
 products come off the production line, and how many components of each 
 type go through the production line without being picked up by any 
 workers.
-
-A few pointers:
- - Your implementation should be in C++ (or Python for non C++ positions like DevOps).  
- - You should expect to spend no more than two hours on this exercise.
- - The code does not have to be "production quality", but we will be
-   looking for evidence that it's written to be somewhat flexible, and that
-   a third party would be able to read and maintain it. 
- - Be sure to state (or comment) your assumptions.
- - During the interview, we may ask about the effect of changing certain
-   aspects of the simulation (e.g. the length of the conveyor belt).
- - Flexibility in the solution is preferred, but we are also looking 
-   for a sensible decision on where this adds too much complexity. 
-   (Where would it be better to rewrite the code for a different 
-   scenario, rather than spending much more than the allotted time 
-   creating an overly complicated, but very flexible simulation engine?)
 
 
 Build and Dependecies  :
